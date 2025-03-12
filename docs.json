@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "T1Pages",
   "colors": {
     "primary": "#16A34A",
@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Guías",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Empezar",
             "pages": [
               "introduction",
               "quickstart",
@@ -58,12 +58,12 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Documentación",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "Comunidad",
           "href": "https://mintlify.com/community",
           "icon": "slack"
         },
@@ -82,7 +82,7 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Soporte",
         "href": "mailto:hi@mintlify.com"
       }
     ],

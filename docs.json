@@ -69,6 +69,18 @@
             "pages": [
               "api-reference/address/get"
             ]
+          },
+          {
+            "group": "Address MS",
+            "pages": [
+              "api-reference/address-controller/put-address-msv1addresses-default",
+              "api-reference/address-controller/obtener-una-dirección-por-su-ulid",
+              "api-reference/address-controller/put-address-msv1addresses",
+              "api-reference/address-controller/delete-address-msv1addresses",
+              "api-reference/address-controller/get-address-msv1addresses",
+              "api-reference/address-controller/post-address-msv1addresses",
+              "api-reference/address-controller/get-address-msv1addressesdefault"
+            ]
           }
         ]
       }

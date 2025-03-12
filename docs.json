@@ -93,13 +93,13 @@
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Comunidad",
-          "href": "https://test-31a95c11.mintlify.app/",
+          "anchor": "Handbook",
+          "href": "https://test-31a95c11.mintlify.app/handbook/intro",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://test-31a95c11.mintlify.app/",
+          "anchor": "API Reference",
+          "href": "https://test-31a95c11.mintlify.app/api-reference/introduction",
           "icon": "newspaper"
         }
       ]
